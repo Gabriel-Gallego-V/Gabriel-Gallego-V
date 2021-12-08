@@ -1,6 +1,6 @@
 - Olá, sou Gabriel Gallego (mas prefiro V)
 - Atualmente estou estudando Python
-- Aspirante a White Hat 
+- Tenho grande interesse em bots e IA 
 - Pra me contatar, só chamar pelo e-mail
 
 <!---
