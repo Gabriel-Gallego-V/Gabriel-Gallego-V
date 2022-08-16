@@ -1,5 +1,5 @@
 - Olá, sou Gabriel Gallego (mas prefiro V)
-- Atualmente estou estudando Python
+- Atualmente estou estudando Web Dev
 - Tenho grande interesse em bots e IA 
 - Pra me contatar, só chamar pelo e-mail
 
