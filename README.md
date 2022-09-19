@@ -21,6 +21,11 @@
   </a>
    <a href="https://codepen.io/gabriel-gallego-v"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
     </a>
+</div>
+
+## Meu Notion caso queira acompanhar o que estou estudando e como monto meus estudos
+
+<div>
    <a href="https://harmless-foxglove-0d2.notion.site/Estudos-Node-ee6c269027364bae94a6c8ceb1efd7d7"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
 </div>
