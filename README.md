@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/Gabriel-Gallego-V">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gallego-V&count_private=true&show_icons=true&theme=synthwave"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gallego-V&layout=compact&theme=synthwave"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gallego-V&count_private=true&show_icons=true&theme=synthwave"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gallego-V&layout=compact&theme=synthwave"/>
 </div>
 
 ## Caso queira me contatar, segue abaixo algumas redes 
