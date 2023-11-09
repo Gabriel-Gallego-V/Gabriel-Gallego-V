@@ -12,15 +12,11 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gallego-V&layout=compact&theme=synthwave"/>
 </div>
 
-## Caso queira me contatar, segue abaixo algumas redes 
+## Caso queira me contatar, segue abaixo meu LinkedIn
 
 <div>
    <a href="https://www.linkedin.com/in/gabriel-gallego-costa-2461b2210/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-  <a href="https://www.instagram.com/droga_eh_o_v/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-   <a href="https://codepen.io/gabriel-gallego-v"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-    </a>
 </div>
 
 ## Meu Notion caso queira acompanhar o que estou estudando e como monto meus estudos
