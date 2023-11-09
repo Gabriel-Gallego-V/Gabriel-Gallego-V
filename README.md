@@ -1,5 +1,5 @@
 # Sobre mim
-- Olá, sou Gabriel Gallego (mas prefiro V)
+- Olá, sou Gabriel Gallego
 - Atualmente estou estudando Web Dev
 - Tenho grande interesse em bots e IA 
 - Pra me contatar, só chamar pelo e-mail (gabrielgccontato@gmail.com)
